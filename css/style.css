@@ -15,8 +15,8 @@ body section{
 
 .wrapper{
 	
-	background: url('../images/jaguar-xe.jpg') no-repeat center top;
-	background-size: 100% 160%;
+	background: url('../images/jaguar-xe.jpg') no-repeat;
+	background-size: cover;
 
 
 }
